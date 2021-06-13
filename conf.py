@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Attendance Management System'
+project = 'College Management System'
 copyright = '2021, Harideep'
-author = 'Harideep, Anil'
+author = 'Prasanth'
 
 # The full version, including alpha/beta/rc tags
 release = ''
